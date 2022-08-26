@@ -1,3 +1,5 @@
+package chuoicosan;
+
 public class bai51 {
     public static void main(String[] args) {
         // indexOf=> 4 truong hop

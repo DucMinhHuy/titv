@@ -1,3 +1,5 @@
+package chuoicosan;
+
 public class chuoi50 {
     public static void main(String[] args) {
         String s1="huy1";
